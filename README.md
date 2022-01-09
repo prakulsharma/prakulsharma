@@ -6,10 +6,10 @@
 <h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <!-- ### About me -->
-- 🔭  &nbsp; I currently work at [SymphonyAI, India](https://www.symphonyai.com/) as a Data Scientist
+- 🔭  &nbsp; I currently work at [SymphonyAI](https://www.symphonyai.com/) as a Data Scientist
 - ⚙️   &nbsp; I use daily: `.py`, `.html`, `.css`
 - 📚  &nbsp; Currently reading [Ikigai](https://en.wikipedia.org/wiki/Ikigai)
-- ⚡  &nbsp; Check out my <a href="https://prakulsharma.github.io">Portfolio.</a></p>
+- ⚡  &nbsp; Check out my <a href="https://prakulsharma.github.io">Portfolio</a></p>
 
 <!-- <p>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
