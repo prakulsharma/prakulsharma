@@ -13,7 +13,7 @@ Check out my <a href="https://prakulsharma.github.io">Portfolio.</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma)
 <br>
-![My stats](https://github-readme-stats.vercel.app/api?username=prakulsharma?count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=True)
+![My stats](https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=True)
 
 
 
