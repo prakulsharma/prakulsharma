@@ -11,9 +11,6 @@ Check out my <a href="https://prakulsharma.github.io">Portfolio.</a>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma)
+![Prakul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma&layout=compact&theme=dark&hide_border=true)
 <br>
-![Prakul's stats](https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=True)
-
-
-
+![Prakul's stats](https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)
