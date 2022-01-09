@@ -27,7 +27,8 @@ Check out my <a href="https://prakulsharma.github.io">Portfolio.</a></p>
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma&layout=compact&theme=dark&hide_border=true" style="height:300px;width:500px" /><img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=stars,issues" style="height:300px;width:500px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma&layout=compact&theme=dark&hide_border=true" style="height:300px;width:500px" />
+<img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=stars,issues" style="height:300px;width:500px" />
 
 <br>
 
