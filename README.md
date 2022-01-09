@@ -28,11 +28,10 @@
 <hr>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma&layout=compact&theme=dark&hide_border=true" style="width:400px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma&layout=compact&theme=dark&hide_border=true" style="width:290px;" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=stars,issues&custom_title=My Github Stats" style="width:450px" />
 </div>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=stars,issues" style="width:500px" /> -->
-
 <hr>
 
 <!-- ![](https://komarev.com/ghpvc/?username=prakulsharma&label=PROFILE+VIEWS&style=for-the-badge&logo=Github&logoColor=white)
