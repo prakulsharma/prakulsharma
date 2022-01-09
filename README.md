@@ -20,7 +20,7 @@
 </p> -->
 
 <hr>
-<p>I'm an engineer from Delhi and completed my bachelor's in Information Technology in 2020.</p>
+<p>I'm an engineer from Delhi and completed my Bachelor of Technology in Information Technology in 2020.</p>
 <p>My keen interest in maths and statistics led me to pursue my passion as a Data Scientist at SymphonyAI where I study, build, deploy and maintain models like LSTM, TFT, ARIMA and neural networks. Platform engineering and visualisations hold a large part of the activities that I'm involved in as well.</p>
 <p>I also have experience in DevOps while working at Infosys and have helped deploy VMs and image-creation pipelines using Azure DevOps. While I am also rigorously trained in MEAN stack during my stint at Infosys, you'll sometimes find me playing my guitar and singing my favourite melodies for my Youtube family of 7K subscribers or with a dog or with a book in my hand or with my telescope, simply staring at the sky in bewilderment at what lies beyond!</p>
 <p>
