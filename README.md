@@ -36,11 +36,11 @@
 <!-- ![](https://komarev.com/ghpvc/?username=prakulsharma&label=PROFILE+VIEWS&style=for-the-badge&logo=Github&logoColor=white)
  -->
 <!-- social links, shields  -->
-<a href="https://www.linkedin.com/in/prakul13" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-750+-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=212121" />
+<a href="https://www.linkedin.com/in/prakul13" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-750+-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616" />
 </a>
-<a href="https://www.youtube.com/c/PrakulSharma" target="_blank"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCSJckP4E8xMPJb7Vf1kiPiw?label=youtube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=212121" />
+<a href="https://www.youtube.com/c/PrakulSharma" target="_blank"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCSJckP4E8xMPJb7Vf1kiPiw?label=youtube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=161616" />
 </a>
-<a href="#" target="_blank"><img alt="Profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=prakulsharma.prakulsharma&label=Profile+Views&logo=github&color=1D70B8&style=for-the-badge&labelColor=212121" />
+<a href="#" target="_blank"><img alt="Profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=prakulsharma.prakulsharma&label=Profile+Views&logo=github&color=1D70B8&style=for-the-badge&labelColor=161616" />
 </a>
 <!-- <a href="https://instagram.com/prakulsharmaa" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a> -->
