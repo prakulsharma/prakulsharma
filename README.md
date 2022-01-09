@@ -44,5 +44,5 @@
 </a>
 <a href="https://www.youtube.com/c/PrakulSharma" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="#" target="_blank"><img alt="Profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=prakulsharma.prakulsharma&label=Profile+Views&labelColor=000000&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" />
+<a href="#" target="_blank"><img alt="Profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=prakulsharma.prakulsharma&label=Profile+Views&labelColor=121008&&color=1D70B8&style=for-the-badge" />
 </a>
