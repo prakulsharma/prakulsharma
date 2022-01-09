@@ -1,5 +1,5 @@
 <!-- cover image -->
-![Cover Image](https://github.com/prakulsharma/prakulsharma/blob/359d5d3831d4c9071fabbd64edd2af18447b47d8/cover.jpeg)
+![Cover Image](https://github.com/prakulsharma/prakulsharma/blob/591bd830b7a3d56b2354b83b0c6094f74349ad54/cover.jpeg)
 
 
 
