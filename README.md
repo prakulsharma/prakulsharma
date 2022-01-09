@@ -27,11 +27,9 @@ Check out my <a href="https://prakulsharma.github.io">Portfolio.</a></p>
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma&layout=compact&theme=dark&hide_border=true" style="height:300px;width:500px" />
-<img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=stars,issues" style="height:300px;width:500px" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma&layout=compact&theme=dark&hide_border=true" style="width:500px" />
+<img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&hide=stars,issues" style="width:500px" />
 <br>
-
 <p>
   <a href="https://github.com/prakulsharma" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
