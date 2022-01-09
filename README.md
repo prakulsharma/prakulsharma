@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/prakulsharma/prakulsharma/blob/master/cover.jpeg)
+![Cover Image](https://github.com/prakulsharma/prakulsharma/cover.jpeg)
 
 ![](https://komarev.com/ghpvc/?username=prakulsharma)
 
