@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=prakulsharma)
+
 <h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <p>I'm <strong>Prakul Sharma</strong>, Data Scientist with a strong background in Python, Mathematics and Statistics. I completed my Bachelor of Technology at GGSIPU in 2020 with majors in Information Technology.
@@ -25,3 +27,11 @@ Check out my <a href="https://prakulsharma.github.io">Portfolio.</a>
   <a href="https://instagram.com/prakulsharmaa" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+- 🔭  &nbsp; I currently work at [SymphonyAI, India](https://www.symphonyai.com/) as a Data Scientist
+- ⚙️   &nbsp; I use daily: `.py`, `.html`, `.css`
+- 📚  &nbsp; Currently reading [Ikigai](https://en.wikipedia.org/wiki/Ikigai)
+<!-- - 🌱  &nbsp; I’m the creator of [Medsol](https://medsol.herokuapp.com/) -->
+<!-- - 📫  &nbsp; Reach me: [linkedIn](https://www.linkedin.com/in/prakul13/) | [instagram](https://www.instagram.com/prakulsharmaa/) -->
+<!-- - ⚡  &nbsp; Fun fact: I'm a guitarist -->
+
