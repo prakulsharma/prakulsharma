@@ -24,7 +24,7 @@
   <p style="text-align: justify;">I also have experience in DevOps while working at Infosys and have helped deploy VMs and image-creation pipelines using Azure DevOps. While I am also rigorously trained in MEAN stack during my stint at Infosys, you'll sometimes find me playing my guitar and singing my favourite melodies for my Youtube family of 7K subscribers or with a dog or with a book in my hand or with my telescope, simply staring at the sky in bewilderment at what lies beyond!</p>
 </div>
 <hr>
-
+<br>
 <div align="center">
   <img alt="python" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   <img alt="C++" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
