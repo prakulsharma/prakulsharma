@@ -49,6 +49,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=prakulsharma&label=PROFILE+VIEWS&style=for-the-badge&logo=Github&logoColor=white)
  -->
+<br>
 <!-- social links, shields  -->
 <div align="center">
 <a href="https://www.linkedin.com/in/prakul13" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-750+-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616" />
