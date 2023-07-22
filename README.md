@@ -19,9 +19,23 @@
 
 <hr>
 <div align="justify">
-  <p style="text-align: justify;">I'm an engineer from Delhi and completed my Bachelor of Technology in Information Technology in 2020.</p>
-  <p style="text-align: justify;">My keen interest in maths and statistics led me to pursue my passion as a Data Scientist at SymphonyAI where I study, build, deploy and maintain models like LSTM, TFT, ARIMA and provide AI solutions for industrial applications. Module development and visualisations hold a large part of the activities that I'm involved in as well.</p>
-  <p style="text-align: justify;">I also have experience in DevOps while working at Infosys and have helped deploy VMs and image-creation pipelines using Azure DevOps. While I am also rigorously trained in MEAN stack during my stint at Infosys, you'll sometimes find me playing my guitar and singing my favourite melodies for my Youtube family of 7K subscribers or with a dog or with a book in my hand or with my telescope, simply staring at the sky in bewilderment at what lies beyond!</p>
+  <p style="text-align: justify;">I am Prakul, an engineer from Delhi, India, specializing in data science. In 2020, I earned my bachelor's degree in Information Technology, and since then, I have been dedicated to exploring the realm of data analysis and interpretation.</p>
+  
+  <p style="text-align: justify;">As a data scientist at SymphonyAI, I apply my expertise in conducting research, developing, deploying, and maintaining advanced models such as LSTM, ARIMA, and ANN. These models serve as the cornerstone for crafting tailored AI solutions for industrial applications. I am also well-versed in module development and proficient in data visualization techniques, empowering businesses to extract actionable insights and make informed decisions based on their data.
+</p>
+  
+  <p style="text-align: justify;">
+During my tenure at Infosys, I gained valuable experience in DevOps, particularly in the deployment of virtual machines (VMs) and the creation of image-creation pipelines using Azure DevOps. This exposure to DevOps practices has enhanced my technical skill set and allowed me to contribute effectively to collaborative software development and deployment processes.
+</p>
+
+ <p style="text-align: justify;">
+In my spare time, I enjoy exploring various technical subjects and expanding my knowledge through continuous learning. I am also passionate about music and often find solace in playing the guitar. Moreover, I am an avid reader with a deep appreciation for literature and enjoy delving into technical books to further refine my skills.
+</p>
+
+ <p style="text-align: justify;">
+With a strong commitment to professional growth, I am constantly seeking opportunities to apply my expertise and contribute to cutting-edge projects. I thrive in dynamic and collaborative environments, where I can utilize my analytical mindset, technical proficiency, and passion for data to drive meaningful outcomes.
+</p>
+  
 </div>
 <hr>
 <br>
