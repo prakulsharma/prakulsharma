@@ -42,8 +42,8 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakulsharma&layout=compact&theme=tokyonight&hide_border=true" style="width:290px;" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide=stars,issues&custom_title=My Github Stats" style="width:450px" />
+<!-- 
+<img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide=stars,issues&custom_title=My Github Stats" style="width:450px" /> -->
 </div>
 <hr>
 
@@ -56,10 +56,11 @@
 </a>
 <a href="https://www.youtube.com/c/PrakulSharma" target="_blank"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCSJckP4E8xMPJb7Vf1kiPiw?label=youtube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=161616" />
 </a>
+  <!-- 
 <a href="#" target="_blank"><img alt="Profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=prakulsharma.prakulsharma&label=Profile+Views&logo=github&color=1D70B8&style=for-the-badge&labelColor=161616" />
-</a>
+</a> -->
 </div>
 <!-- <a href="https://instagram.com/prakulsharmaa" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a> -->
-<!-- <a href="https://github.com/prakulsharma" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub Views-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+ <!-- <a href="https://github.com/prakulsharma" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub Views-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a> -->
