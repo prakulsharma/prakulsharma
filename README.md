@@ -3,7 +3,7 @@
 <h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <!-- ### About me -->
-- 🔭  &nbsp; I study Data Science at [UBC](https://www.ubc.ca/)!
+- 🔭  &nbsp; I study Data Science at [UBC](https://www.ubc.ca/)
 - ⚙️   &nbsp; Daily use: `.py`
 - 📚  &nbsp; Currently reading [The Complete Idiot's Guide to Statistics](https://www.goodreads.com/en/book/show/747387.The_Complete_Idiot_s_Guide_to_Statistics)
 - ⚡  &nbsp; Check out my <a href="https://prakulsharma.github.io">Portfolio</a></p>
