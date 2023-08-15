@@ -38,9 +38,8 @@ Feel free to explore my repositories and reach out if you share my passion for d
 <hr>
 
 <!-- Stats --> 
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I know
+<!-- <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I Know</h3>
+-->
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
@@ -91,16 +90,18 @@ Feel free to explore my repositories and reach out if you share my passion for d
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github status
-<p><img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&amp;show_icons=true" style="height:250px; width:520px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakulsharma&layout=compact&theme=tokyonight&hide_border=true&amp;show_icons=true&amp;" style="height:250px; width:460px" /></p>
-<br>
+<hr>
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github status -->
+<p><img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&amp;show_icons=true" style="height:250px; width:520px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakulsharma&layout=compact&hide_border=true&amp;show_icons=true&amp;" style="height:250px;width:460px" /></p>
+
 
 <hr>
 
 <br>
 <!-- social links, shields  -->
 <div align="center">
-<a href="https://www.linkedin.com/in/prakul13" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-750+-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616" />
+<a href="https://www.linkedin.com/in/prakul13" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-1K-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616" />
 </a>
 <a href="https://www.youtube.com/c/PrakulSharma" target="_blank"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCSJckP4E8xMPJb7Vf1kiPiw?label=youtube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=161616" />
 </a>
