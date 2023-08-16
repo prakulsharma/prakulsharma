@@ -23,11 +23,11 @@
   <p><b>PAST EXPERIENCE AT INFOSYS:</b> I honed my skills in DevOps, focusing on the deployment of virtual machines and the creation of image-creation pipelines with Azure DevOps.
 </p>
 
- <p><b>CONTINUOUS LEARNER:</b> Outside work, I delve into technical subjects and literature, always seeking ways to refine my skills. I also find joy in music, often playing the guitar.
+ <p><b>LIFELONG EXPLORER:</b> Outside work, I delve into literature and philosophy, always seeking ways to refine my persona. I nourish my soul through my love for singing, playing the guitar, chess, football, and anime.
 
 
  <p><b>VISION:</b> I am committed to growth and always eager to contribute to cutting-edge projects. I thrive in collaborative environments where I can apply my analytical mindset and technical proficiency to drive impactful results.
-<br>
+<br><br>
 Feel free to explore my repositories and reach out if you share my passion for data and technology!
 </p>
   
