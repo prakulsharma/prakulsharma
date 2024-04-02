@@ -11,22 +11,22 @@
 
 <!-- ### Bio -->
 <div align="justify">
-  <p><b>ABOUT ME:</b> I'm a data scientist based in Delhi, India. With a B.Tech in Information Technology, I've embarked on a journey to explore the world of data analytics and interpretation.
+  <p><b>ABOUT ME:</b><br> I'm a data scientist based in Delhi, India. With a B.Tech in Information Technology, I've embarked on a journey to explore the world of data analytics and interpretation.
 </p>
 
-<p><b>CURRENT PURSUIT:</b> Working towards my Master of Data Science with a focus on computational linguistics, I continue to deepen my expertise and align my academic pursuits with real-world applications.
-</p>
-  
-  <p><b>PAST EXPERIENCE AT SYMPHONYAI:</b> I blend research, development, and deployment of advanced models like LSTM, ARIMA, and ANN, tailoring AI solutions for industrial applications. My proficiency in data visualization guides businesses in drawing actionable insights.
+<p><b>CURRENT PURSUIT:</b><br> Working towards my Master of Data Science with a focus on computational linguistics, I continue to deepen my expertise and align my academic pursuits with real-world applications.
 </p>
   
-  <p><b>PAST EXPERIENCE AT INFOSYS:</b> I honed my skills in DevOps, focusing on the deployment of virtual machines and the creation of image-creation pipelines with Azure DevOps.
+  <p><b>PAST EXPERIENCE AT SYMPHONYAI:</b> <br> I blend research, development, and deployment of advanced models like LSTM, ARIMA, and ANN, tailoring AI solutions for industrial applications. My proficiency in data visualization guides businesses in drawing actionable insights.
+</p>
+  
+  <p><b>PAST EXPERIENCE AT INFOSYS:</b><br>  I honed my skills in DevOps, focusing on the deployment of virtual machines and the creation of image-creation pipelines with Azure DevOps.
 </p>
 
- <p><b>LIFELONG EXPLORER:</b> Outside work, I delve into literature and philosophy, always seeking ways to refine my persona. I nourish my soul through my love for singing, playing the guitar, chess, football, and anime.
+ <p><b>LIFELONG EXPLORER:</b><br>  Outside work, I delve into literature and philosophy, always seeking ways to refine my persona. I nourish my soul through my love for singing, playing the guitar, chess, football, and anime.
 
 
- <p><b>VISION:</b> I am committed to growth and always eager to contribute to cutting-edge projects. I thrive in collaborative environments where I can apply my analytical mindset and technical proficiency to drive impactful results.
+ <p><b>VISION:</b> <br> I am committed to growth and always eager to contribute to cutting-edge projects. I thrive in collaborative environments where I can apply my analytical mindset and technical proficiency to drive impactful results.
 <br><br>
 Feel free to explore my repositories and reach out if you share my passion for data and technology!
 </p>
@@ -40,12 +40,10 @@ Feel free to explore my repositories and reach out if you share my passion for d
 ### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### 💾 Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🖥️ ML/DL
+### 🧠 Machine Learning, Deep Learning, and Data Science libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
@@ -56,8 +54,18 @@ Feel free to explore my repositories and reach out if you share my passion for d
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 📚 Frameworks, Platforms and Libraries
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-%230085FF.svg?style=for-the-badge&logo=dash&logoColor=white)
+
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!--
 ### ☁️ Hosting/SaaS
@@ -80,7 +88,8 @@ Feel free to explore my repositories and reach out if you share my passion for d
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
 
-### 🥅 Other
+### 📚 Tools
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -98,7 +107,7 @@ Feel free to explore my repositories and reach out if you share my passion for d
 <br>
 <!-- social links, shields  -->
 <div align="center">
-<a href="https://www.linkedin.com/in/prakul13" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-1K-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616" />
+<a href="https://www.linkedin.com/in/prakul13" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-1.2K-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616" />
 </a>
 <a href="https://www.youtube.com/c/PrakulSharma" target="_blank"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCSJckP4E8xMPJb7Vf1kiPiw?label=youtube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=161616" />
 </a>
