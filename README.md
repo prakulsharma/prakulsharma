@@ -3,15 +3,15 @@
 <h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <!-- ### About me -->
-- 🔭  &nbsp; I study Data Science at [UBC](https://www.ubc.ca/)
+- 🔭  &nbsp; I work at [PDF Solutions]([https://www.pdf.com/])
 - ⚙️   &nbsp; Daily use: `.py`
-- 📚  &nbsp; Currently reading [The Complete Idiot's Guide to Statistics](https://www.goodreads.com/en/book/show/747387.The_Complete_Idiot_s_Guide_to_Statistics)
+- 📚  &nbsp; Currently reading: [The Hitchhiker's Guide to the Galaxy]([https://www.goodreads.com/en/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy])
 - ⚡  &nbsp; Check out my <a href="https://prakulsharma.github.io">Portfolio</a></p>
 <hr>
 
 <!-- ### Bio -->
 <div align="justify">
-  <p><b>ABOUT ME:</b><br> I'm a data scientist based in Delhi, India. With a B.Tech in Information Technology, I've embarked on a journey to explore the world of data analytics and interpretation.
+  <p><b>ABOUT ME:</b><br> I'm a data scientist based in Vancouver, Canada. With a B.Tech in Information Technology, I've embarked on a journey to explore the world of data analytics and interpretation.
 </p>
 
 <p><b>CURRENT PURSUIT:</b><br> Working towards my Master of Data Science with a focus on computational linguistics, I continue to deepen my expertise and align my academic pursuits with real-world applications.
@@ -96,18 +96,16 @@ Feel free to explore my repositories and reach out if you share my passion for d
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
-<hr>
+<!-- <hr> -->
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github status -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&amp;show_icons=true" style="height:250px; width:520px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakulsharma&layout=compact&hide_border=true&amp;show_icons=true&amp;" style="height:250px;width:460px" /></p>
-
-
-<hr>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=prakulsharma&amp;show_icons=true" style="height:250px; width:520px" /> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakulsharma&layout=compact&hide_border=true&amp;show_icons=true&amp;" style="height:250px;width:460px" /></p>
+<hr> -->
 
 <br>
 <!-- social links, shields  -->
 <div align="center">
-<a href="https://www.linkedin.com/in/prakul13" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-1.2K-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616" />
+<a href="https://www.linkedin.com/in/sharmaprakul" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-1.2K-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161616" />
 </a>
 <a href="https://www.youtube.com/c/PrakulSharma" target="_blank"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCSJckP4E8xMPJb7Vf1kiPiw?label=youtube&logo=youtube&style=for-the-badge&logoColor=white&labelColor=161616" />
 </a>
